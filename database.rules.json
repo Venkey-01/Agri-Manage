@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "irrigation": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
